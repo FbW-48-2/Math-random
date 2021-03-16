@@ -1,4 +1,4 @@
-##Assignment 
+## Assignment 
 
 1. create a variable  with the name `colorString`  and assign this string value `0123456789ABCDEF` to the variable 
 2. create  an integer random number between 0 and 16 (exclusive 16 )  
